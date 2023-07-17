@@ -24,7 +24,10 @@
       "file-types": [
         "hbs"
       ],
-      "injection-regex": "hbs"
+      "injection-regex": "hbs",
+      "highlights": [
+        "queries/highlights.scm"
+      ]
     }
   ],
   "volta": {
